@@ -178,7 +178,7 @@
   <ItemGroup>
     <ProjectReference Include="..\I\PPWCode.Util.Test.I.csproj">
       <Project>{66a99d74-8a8f-4509-bd57-60cc6c1f5e29}</Project>
-      <Name>PPWCode.Util.OddsAndEnds.II</Name>
+      <Name>PPWCode.Util.Test.I</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
