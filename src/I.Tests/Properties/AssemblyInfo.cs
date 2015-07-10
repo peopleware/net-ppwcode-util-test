@@ -15,8 +15,8 @@
 using System.Reflection;
 using System.Runtime.InteropServices;
 
-[assembly: AssemblyTitle("PPWCode.Vernacular.Test.Test.I")]
-[assembly: AssemblyDescription("Test library for PPWCode.Vernacular.Test.I")]
+[assembly: AssemblyTitle("PPWCode.Util.Test.I.Tests")]
+[assembly: AssemblyDescription("Unit tests for PPWCode.Util.Test.I.Tests")]
 [assembly: AssemblyConfiguration("")]
 [assembly: ComVisible(false)]
 [assembly: Guid("FEAAE52E-5E3E-4C37-A5BA-8EE742404E13")]

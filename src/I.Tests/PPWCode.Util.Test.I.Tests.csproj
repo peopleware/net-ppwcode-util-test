@@ -8,8 +8,8 @@
     <ProjectGuid>{F0A3B7A1-1089-41BC-BB7A-8662B7495CF9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PPWCode.Util.Test.Test.I</RootNamespace>
-    <AssemblyName>PPWCode.Util.Test.Test.I</AssemblyName>
+    <RootNamespace>PPWCode.Util.Test.I.Tests</RootNamespace>
+    <AssemblyName>PPWCode.Util.Test.I.Tests</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileUpgradeFlags>
